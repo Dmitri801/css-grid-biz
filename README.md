@@ -4,4 +4,5 @@ Referance site for CSS Grid
 
 ## How to use
 
-- Open the styles.css directory to view the grid styles and use as a referance.
+- Open the index.html file to view the html markup
+- Open the styles.css file to view the css grid styles.
